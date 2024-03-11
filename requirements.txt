@@ -1,0 +1,6 @@
+colorama
+pyperclip
+selenium
+tempmail-python
+PyQt6
+pyautogui
